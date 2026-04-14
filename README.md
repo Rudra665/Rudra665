@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="./White Pink Modern Game Streamer Twitch Banner.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on making a LLM driven Query System with DAB and SQL Server
