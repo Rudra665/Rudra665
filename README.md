@@ -13,7 +13,8 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center flex">
+<div style={{display: "flex"}}>
+<p align="center">
   <a href="https://github.com/Rudra665">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rudra665&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Rudra665's GitHub Stats" />
   </a>
@@ -22,6 +23,7 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra665&theme=nightowl&radius=10" alt="Rudra665's Activity Graph" />
 </p>
+</div>
 
 
 ## 🛠️ Languages & Tools
